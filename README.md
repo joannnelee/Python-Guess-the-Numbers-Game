@@ -14,7 +14,7 @@ A guess the number game is created where a player has 3 attempts to correctly gu
 
 ### Flowchart
 
-<img width="766" alt="Screenshot 2025-04-30 at 10 27 47" src="https://github.com/user-attachments/assets/859bbc70-f9d1-401e-a223-d1db6bdf35f8" />
+<img width="745" alt="Screenshot 2025-04-30 at 11 44 32" src="https://github.com/user-attachments/assets/e4fe4b8c-ae50-4d38-b5dd-8ac885a34bc3" />
 
 1. The game starts with the computer randomly generating a number from 0-10.
    
